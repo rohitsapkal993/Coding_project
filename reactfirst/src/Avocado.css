@@ -1,0 +1,10 @@
+
+@import url ('href="https://fonts.googleapis.com/css2?family=Roboto:ital');
+
+.mainpage{font-family: 'Roboto', sans-serif;}
+.Avocadostyle img{
+	background: yellow;
+	width: 200px;
+	height: 200px;
+
+}
